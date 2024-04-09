@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">venusprestige</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intenet">IntenetActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">destination</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_wood">WoodActivity</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_furniture">Furniture</string>
+</resources>
